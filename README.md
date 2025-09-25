@@ -41,3 +41,12 @@ Donate and support this project!
 
 
 # AIGO-X99L-D4
+
+
+this board have a design hardware problem. if you use cmos clear pins you will erase bios, it happens on stock or custom firmware. 
+
+so dont use it.
+
+for cmos clear, remove battery from board, motherboard from power plug, and press power for 20s.
+
+its the only safe way to erase cmos.
