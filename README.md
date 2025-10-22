@@ -55,3 +55,7 @@ so dont use it.
 for cmos clear, remove battery from board, motherboard from power plug, and press power for 20s.
 
 its the only safe way to erase cmos.
+
+
+Bios validation
+https://valid.x86.fr/mur9rs
